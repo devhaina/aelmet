@@ -699,3 +699,12 @@ h6,
     color: #B0B9AE;
     border-top: 1px solid rgba(255, 255, 255, .1);
 }
+
+.dropdown-item{
+font-size: 18px;
+padding: 8px 70px 8px 20px;
+}
+.dropdown-item:hover{
+    background-color: #b58e05;
+    color: #FFFFFF;
+    }
